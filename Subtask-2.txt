@@ -9,8 +9,6 @@ He is the only first year student who has cracked GSoC, and he is always ready t
 -B.D-
 He is a senator and very helpful and kind. He is a very good friend.
 
- Subtask-2
-
 A.C-
 He is my tech father and very helpful and friendly.
 
@@ -29,8 +27,7 @@ Whenever you need to intimidate someone, you can always rely on him, and he is a
 A.C-
 He is my tech father and very helpful and friendly.
 
-Subtask-2
-
+- P.S.
 He is a must to have, when working in a team and has amazing App Development Skills
 
 - Y.G.
@@ -70,9 +67,6 @@ Codechef 6 stars. Source of inspiration for me. Helps me out when I'm stuck.
 
 - C.S.
 He is a nice person and helped me in getting to know about the college.
-Subtask-2
-
-Subtask-2
 
 - S.T.
 He has helped me in multiple aspect while getting into college, he connected me with right people when i had problems.
@@ -129,21 +123,16 @@ He solves my doubts in the language which I know and this helps a lot until I pr
 
 - V.M.
 He is a kind person and has always helped me
-Subtask-2
 
+-V.M.
 he is a very good teacher and always ready to help.
-
-- P.S.
-His way of typing the code.
-His voice.
 
 -V.M.
 He is always very helpful and its great to talk with.
 
-He is always very helpful and its great to talk with
-
 -P.J
 He is a very good person and is very friendly
+
 -D.R.
 He is very helpful and clear all my doubts.
 
@@ -206,13 +195,11 @@ He has been very helpful to me. We share common interest for basketball.
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
 
-
 -D.S.S.
 Super helpful and super fun! Haven't come across a cooler senior.
 
 - S.
 He is extremely helpful and cooperating.
-
 
 -V.M.
 He was very helpful during FOSS workshop and cleared my doubts.
@@ -229,6 +216,7 @@ He is very very chill and helps me a lot.He responds very quickly to my texts an
 -K.T
 He is very helpful,friendly and he is also my source of inspiration.
 He is a kind person and has always helped me
+
 - K.T.
 He helps us patiently and also my source of inspiration.
 
@@ -243,3 +231,6 @@ Encourages and advices me.
 -P.M.
 He is the one who helped me from the time i was filling JOSAA CHOICEs. He is probably the reason why i am in this college, not in some NIT or PEC.
 
+- P.S.
+His way of typing the code.
+His voice.
